@@ -48,8 +48,8 @@
 - 초기 사용자의 위치를 알기 위해 CoreLocation을 사용했습니다.
 
 ## Todo
-# 🖼️ URL Image Load, Caching
+### 🖼️ URL Image Load, Caching
 - URL 로부터의 이미지 로드, 캐싱은 Kingfisher 라이브러리로 처리하였으나 의존성을 제거하고 직접 이미지 로드, 캐싱을 구현할 예정입니다.
 
-# 🪛 Rx TestCode
+### 🪛 Rx TestCode
 - 테스트 코드를 구현할 예정입니다.
