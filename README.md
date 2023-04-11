@@ -40,9 +40,6 @@
 ### 🔬RxFlow
 - 클래스간 의존성 주입을 용이하게 하고, MVVM 패턴에서 Coordinator의 화면 전환을 트리거 하게 하기 위해 사용했습니다.
 
-### 🔬RxFlow
-- 클래스간 의존성 주입을 용이하게 하고, MVVM 패턴에서 Coordinator의 화면 전환을 트리거 하게 하기 위해 사용했습니다.
-
 ### 🔬 Naver Map SDK, CoreLocation
 - 사용자 주변의 매장을 표시하기 위해 Naver Map SDK를 사용했습니다.
 - 초기 사용자의 위치를 알기 위해 CoreLocation을 사용했습니다.
